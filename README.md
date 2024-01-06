@@ -24,3 +24,11 @@ Hi there! I'm Lê Tuấn Anh, a passionate software developer and a final-year s
 
 # ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<style>
+  body {
+    background-image: url('https://st.depositphotos.com/1062624/2363/i/380/depositphotos_23638543-stock-photo-best-internet-concept-of-global.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+</style>
