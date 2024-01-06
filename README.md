@@ -1,5 +1,21 @@
 
-<img src="https://genk.mediacdn.vn/thumb_w/640/2015/2-1440133142840.gif" alt="Background GIF" style="width: 100%; height: auto;">
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+  img {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    object-position: center;
+  }
+</style>
+
+# Background Image
+<img src="https://genk.mediacdn.vn/thumb_w/640/2015/2-1440133142840.gif" alt="Background GIF">
 
 # 🧑‍💻 About Me
 Hi there! I'm Lê Tuấn Anh, a passionate software developer and a final-year student. I have a love for creating innovative solutions and enjoy turning ideas into reality through code. Continually exploring new technologies, I'm excited to connect with like-minded individuals and build amazing things together!
