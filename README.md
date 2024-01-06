@@ -1,5 +1,5 @@
 # Background Image
-![Background](https://st.depositphotos.com/1062624/2363/i/380/depositphotos_23638543-stock-photo-best-internet-concept-of-global.jpg)
+![Background](https://st.depositphotos.com/1062624/2363/i/380/depositphotos_23638543-stock-photo-best-internet-concept-of-global.jpg){width=100%}
 
 # 🧑‍💻 About Me
 Hi there! I'm Lê Tuấn Anh, a passionate software developer and a final-year student. I have a love for creating innovative solutions and enjoy turning ideas into reality through code. Continually exploring new technologies, I'm excited to connect with like-minded individuals and build amazing things together!
