@@ -1,7 +1,5 @@
-[![image](https://github.com/Tanhhh/Tanhhh/assets/90831017/fabca6f1-4f7f-4262-b65d-b6ce3c3bd45e)<video autoplay muted loop id="myVideo">
-  <source src="https://kenh14cdn.com/LJ9BRCA2SwO2i2yoqIMzIMq9QI2QMI/Image/2015/05/cd1-358c5.gif">
-  Your browser does not support the video tag.
-</video>](https://kenh14cdn.com/LJ9BRCA2SwO2i2yoqIMzIMq9QI2QMI/Image/2015/05/cd1-358c5.gif)
+# Background Image
+![Background](https://png.pngtree.com/background/20230401/original/pngtree-planet-universe-starry-sky-mountains-background-picture-image_2252507.jpg)
 
 # 🧑‍💻 About Me
 Hi there! I'm Lê Tuấn Anh, a passionate software developer and a final-year student. I have a love for creating innovative solutions and enjoy turning ideas into reality through code. Continually exploring new technologies, I'm excited to connect with like-minded individuals and build amazing things together!
