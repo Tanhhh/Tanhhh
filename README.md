@@ -1,4 +1,4 @@
-# Background Image
+
 <img src="https://kenh14cdn.com/LJ9BRCA2SwO2i2yoqIMzIMq9QI2QMI/Image/2015/05/cd1-358c5.gif" alt="Background GIF" style="width: 100%; height: auto;">
 
 # 🧑‍💻 About Me
