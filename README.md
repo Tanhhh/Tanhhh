@@ -1,20 +1,4 @@
 
-<style>
-  body {
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-  }
-
-  img {
-    width: 100vw;
-    height: 100vh;
-    object-fit: cover;
-    object-position: center;
-  }
-</style>
-
-# Background Image
 <img src="https://genk.mediacdn.vn/thumb_w/640/2015/2-1440133142840.gif" alt="Background GIF">
 
 # 🧑‍💻 About Me
