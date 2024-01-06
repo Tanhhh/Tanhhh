@@ -81,7 +81,13 @@
 				<div class="greeting">
           Hi Aliens!<br/>I'm Tanhh from the Earth.
         </div>
-    
+    <div class="skills">
+  <i class="fab fa-aspdotnet"></i> <!-- ASP.NET Icon -->
+  <i class="fas fa-database"></i> <!-- MSSQL Icon -->
+  <i class="fab fa-html5"></i> <!-- HTML Icon -->
+  <i class="fab fa-css3-alt"></i> <!-- CSS Icon -->
+  <i class="fab fa-js"></i> <!-- JavaScript Icon -->
+</div>
 			</div>
 		</div>
 	</foreignObject>
