@@ -1,3 +1,5 @@
+# Background Image
+![Background](<IMAGE_URL>)
 # 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/pengoccutehehe/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tanhhh0_0)
@@ -19,3 +21,5 @@
 
 # ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 🧑‍💻 About Me
+Hi there! I'm [Your Name], a passionate software developer with a love for creating innovative solutions. My expertise includes C#, Java, JavaScript, and more. I enjoy turning ideas into reality through code and continually exploring new technologies. Let's connect and build amazing things together!
