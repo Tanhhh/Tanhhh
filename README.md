@@ -9,6 +9,7 @@ Hi there! I'm Lê Tuấn Anh, a passionate software developer and a final-year s
 ### A Student & Developer
 
 <img alt="GIF" src="coding.gif" width="100%" height="400" />
+
 # 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/pengoccutehehe/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tanhhh0_0)
