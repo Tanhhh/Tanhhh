@@ -4,7 +4,7 @@
 </a>
 
 # 🧑‍💻 About Me
-<img alt="GIF" src="introduce.jpg" width="100%" />
+<img alt="GIF" src="introduce.jpg" />
 
 ### A Student & Developer
 
