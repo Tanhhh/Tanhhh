@@ -22,7 +22,7 @@ Hi there! I'm Lê Tuấn Anh, a passionate software developer and a final-year s
 </a>
 
 # 🛠 Tools & Technology
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" />
