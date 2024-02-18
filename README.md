@@ -20,9 +20,7 @@ Hi there! I'm Lê Tuấn Anh, a passionate software developer and a final-year s
 <a href="https://www.linkedin.com/in/tanhhhh/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
 </a>
-
-<div align="center">
-<p align="center">🛠 Tools & Technology</p>
+# 🛠 Tools & Technology
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
